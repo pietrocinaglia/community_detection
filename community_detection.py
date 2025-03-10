@@ -110,9 +110,9 @@ def processing(basepath, input_path, output_filename = None, communities = [], d
         file.write( "* Community Detection                                                 *\n" )
         file.write( "* - Methods: Louvain, Infomap (disabled), Greedy, k-clique (disabled) *\n" )
         file.write( "*                                                                     *\n" )
-        file.write( "* Developer: Pietro Cinaglia (cinaglia@unicz.it)                      *\n" )
+        file.write( "* Developer: Pietro Cinaglia - cinaglia(at)unicz.it                   *\n" )
         file.write( "* Version: 0.1-alpha                                                  *\n" )
-        file.write( "* GitHub:                                                             *\n" )
+        file.write( "* GitHub: https://github.com/pietrocinaglia/community_detection       *\n" )
         file.write( "***********************************************************************\n" )
         file.write( '\n' )
 
@@ -154,9 +154,9 @@ def main():
     print( "* Community Detection                                                 *" )
     print( "* - Methods: Louvain, Infomap (disabled), Greedy, k-Clique (disabled) *" )
     print( "*                                                                     *" )
-    print( "* Developer: Pietro Cinaglia (cinaglia@unicz.it)                      *" )
+    print( "* Developer: Pietro Cinaglia - cinaglia(at)unicz.it                   *" )
     print( "* Version: 0.1-alpha                                                  *" )
-    print( "* GitHub:                                                             *" )
+    print( "* GitHub: https://github.com/pietrocinaglia/community_detection       *" )
     print( "***********************************************************************" )
 
     ###
